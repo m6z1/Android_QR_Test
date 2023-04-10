@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">QR_Test</string>
+    <string name="BTN_create">QR 생성</string>
+    <string name="BTN_read">QR 인식</string>
 </resources>
