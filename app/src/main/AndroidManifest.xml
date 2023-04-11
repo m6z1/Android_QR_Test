@@ -25,6 +25,10 @@
         <activity
             android:name=".CreateQRActivity"
             android:exported="false" />
+
+        <activity
+            android:name=".ReadQRAcitivity"
+            android:exported="false" />
     </application>
 
 </manifest>
